@@ -18263,3 +18263,10 @@ a:hover {
 /* .heading-block {
   margin-bottom: 20px !important;
 } */
+
+.that {
+  background-image: url(https://assets-global.website-files.com/5e469aaf314e562ff1146d3f/610cca6ef5974890b23aa2c9_That%20Underline.svg);
+  background-position: 50% 100%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}

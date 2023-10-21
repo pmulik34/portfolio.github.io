@@ -16809,3 +16809,6 @@ label.checkbox { padding-left: 20px; }
 .bg-color{
     background-color: #07070782 !important;
 }
+.fw-light{
+	opacity : 1 !important;
+}
